@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Volumes/DATA700GB/TEMP_RDP/test_check/3DViewer/src/3DViewer/qgifimage",
+      "program": "/Volumes/DATA700GB/TEMP_RDP/test_check/3DViewer/src/3DViewer/qgifimage/build/Debug/outDebug"
+    }
+  ]
+}
