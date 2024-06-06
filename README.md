@@ -10,34 +10,26 @@
 
 Склонировать репозиторий:
 ```
-git clone https://github.com/username/3DViewer.git
+git@github.com:romanov-ivan-al/3DViewer.git
 ```
 Перейти в каталог проекта:
 ```
-cd 3DViewer
+cd 3DViewer/src
 ```
 Создать сборку с помощью Makefile:
-Copy
-Insert
-make
 Установить проект:
-Copy
-Insert
+```
 make install
-Использование
-Для запуска программы, выполните следующую команду:
-
-Copy
-Insert
-3DViewer
+```
+Использование:
 Программа позволяет открывать файлы формата OBJ и просматривать их как каркасные модели в трехмерном пространстве.
 
 Удаление
 Для удаления проекта выполните следующую команду:
-
-Copy
-Insert
+```
 make uninstall
+```
+
 Поддерживаемые операционные системы
 3DViewer поддерживает операционные системы Linux Ubuntu и macOS.
 
